@@ -32,9 +32,9 @@ public class Fortest001{
 
 		// }
 		// System.out.println(j);
-		// System.out.println(s-1);
+		 System.out.println(s-1);
 		
-		
+	
 		
 	}
 }
